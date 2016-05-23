@@ -13,4 +13,4 @@ dripup logo
 
 ## Related project
 
-[dripup/dripup](https://github.com/dripup/dripup)
+[tsuyoshiwada/dripup](https://github.com/tsuyoshiwada/dripup)
