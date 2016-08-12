@@ -1,4 +1,4 @@
-dripup logo
+FLAMBER logo
 ===========
 
 ## Horizontal
@@ -13,4 +13,4 @@ dripup logo
 
 ## Related project
 
-[tsuyoshiwada/dripup](https://github.com/tsuyoshiwada/dripup)
+[tsuyoshiwada/flamber](https://github.com/tsuyoshiwada/flamber)
